@@ -1,0 +1,68 @@
+[
+  {
+    "id": "SCH-001", "name": "MGNREGS", "full_name": "Mahatma Gandhi National Rural Employment Guarantee Scheme",
+    "ministry": "Ministry of Rural Development", "type": "Employment",
+    "description": "Guarantees 100 days of wage employment per year to rural households whose adult members volunteer to do unskilled manual work.",
+    "benefits": ["100 days guaranteed employment", "Minimum wage payment within 15 days", "Unemployment allowance if work not provided", "Job card issued free of cost"],
+    "eligibility": ["Rural household", "Adult member (18+ years)", "Willing to do unskilled manual work", "Aadhaar linked bank account"],
+    "documents": ["Aadhaar Card", "Bank Passbook", "Residence Proof", "Passport Photo"],
+    "application_process": "Apply at Gram Panchayat office with Job Card application form. Panchayat Sachiv will verify and issue Job Card within 15 days.",
+    "budget_crore": 8400, "beneficiaries_state": 4200000, "status": "Active",
+    "contact": "Block Development Officer (BDO) or Panchayat Sachiv"
+  },
+  {
+    "id": "SCH-002", "name": "PMAY-G", "full_name": "Pradhan Mantri Awaas Yojana — Gramin",
+    "ministry": "Ministry of Rural Development", "type": "Housing",
+    "description": "Provides financial assistance to rural BPL families for construction of pucca houses with basic amenities.",
+    "benefits": ["₹1,20,000 financial assistance (plain areas)", "₹1,30,000 for hilly/difficult areas", "90 days MGNREGS labour support", "Toilet construction under SBM-G"],
+    "eligibility": ["BPL family", "Houseless or living in kutcha house", "Not availed housing scheme before", "Aadhaar linked"],
+    "documents": ["Aadhaar Card", "BPL Certificate", "Bank Account", "Land ownership proof"],
+    "application_process": "Beneficiary selection through SECC 2011 data. Apply through Panchayat or AwaasSoft portal.",
+    "budget_crore": 4800, "beneficiaries_state": 1800000, "status": "Active",
+    "contact": "Panchayat Sachiv or Block Development Officer"
+  },
+  {
+    "id": "SCH-003", "name": "JJM", "full_name": "Jal Jeevan Mission (Har Ghar Jal)",
+    "ministry": "Ministry of Jal Shakti", "type": "Water Supply",
+    "description": "Aims to provide safe and adequate drinking water through individual household tap connections to all rural households by 2024.",
+    "benefits": ["Piped water connection to every household", "55 litres per capita per day", "Water quality testing facility", "Village Water & Sanitation Committee"],
+    "eligibility": ["All rural households", "Priority to SC/ST households", "Priority to water-scarce areas"],
+    "documents": ["Aadhaar Card", "Residence Proof"],
+    "application_process": "Apply through Gram Panchayat. Village Water & Sanitation Committee manages implementation.",
+    "budget_crore": 6200, "beneficiaries_state": 2100000, "status": "Active",
+    "contact": "PHED (Public Health Engineering Department) or Panchayat Sachiv"
+  },
+  {
+    "id": "SCH-004", "name": "SBM-G", "full_name": "Swachh Bharat Mission — Gramin",
+    "ministry": "Ministry of Jal Shakti", "type": "Sanitation",
+    "description": "Accelerates efforts to achieve universal sanitation coverage and improve cleanliness in rural India.",
+    "benefits": ["₹12,000 incentive for toilet construction", "Solid & liquid waste management", "ODF Plus village certification", "Behaviour change communication"],
+    "eligibility": ["BPL households without toilet", "APL households in priority areas", "SC/ST households"],
+    "documents": ["Aadhaar Card", "Bank Account", "Residence Proof"],
+    "application_process": "Apply at Gram Panchayat. Sachiv verifies and submits to Block. Incentive released after construction verification.",
+    "budget_crore": 1200, "beneficiaries_state": 890000, "status": "Active",
+    "contact": "Panchayat Sachiv or Block Sanitation Coordinator"
+  },
+  {
+    "id": "SCH-005", "name": "15th FC Grant", "full_name": "15th Finance Commission Grant to Panchayats",
+    "ministry": "Ministry of Panchayati Raj", "type": "Governance",
+    "description": "Untied and tied grants to Gram Panchayats for basic services including sanitation, drinking water, and maintenance of ODF status.",
+    "benefits": ["Tied grant for sanitation & water", "Untied grant for local needs", "Performance-based additional grants", "Direct transfer to Panchayat account"],
+    "eligibility": ["All Gram Panchayats", "Subject to audit compliance", "Subject to timely utilization"],
+    "documents": ["Panchayat registration", "Bank account details", "Audit reports"],
+    "application_process": "Automatic release based on devolution formula. Panchayat must submit utilization certificate.",
+    "budget_crore": 3200, "beneficiaries_state": 8400, "status": "Active",
+    "contact": "District Panchayati Raj Officer (DPRO)"
+  },
+  {
+    "id": "SCH-006", "name": "NSAP", "full_name": "National Social Assistance Programme",
+    "ministry": "Ministry of Rural Development", "type": "Social Security",
+    "description": "Provides financial assistance to elderly, widows, and disabled persons belonging to BPL households.",
+    "benefits": ["₹200-500/month pension for elderly (60+)", "₹300/month for widows", "₹300/month for disabled persons", "Lump sum on death of breadwinner"],
+    "eligibility": ["BPL household", "Age 60+ for old age pension", "Widow of any age", "Disabled with 80%+ disability"],
+    "documents": ["Aadhaar Card", "BPL Certificate", "Age Proof", "Bank Account"],
+    "application_process": "Apply at Gram Panchayat or Block office. Verification by Sachiv and BDO. Pension credited monthly.",
+    "budget_crore": 980, "beneficiaries_state": 3400000, "status": "Active",
+    "contact": "Panchayat Sachiv or Social Welfare Officer"
+  }
+]

@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-primary: #ffffff;
+    --bg-secondary: #FFFBEB;
+    --bg-card: #ffffff;
+    --text-primary: #212121;
+    --text-secondary: #78716C;
+    --border-color: #FDE68A;
+    --sidebar-bg: #78350F;
+    --sidebar-text: #FEF3C7;
+    --sidebar-active: #D97706;
+  }
+
+  .dark {
+    --bg-primary: #1a1208;
+    --bg-secondary: #231a0a;
+    --bg-card: #2a1f0e;
+    --text-primary: #FFFBEB;
+    --text-secondary: #FCD34D;
+    --border-color: #3d2e10;
+    --sidebar-bg: #78350F;
+    --sidebar-text: #FEF3C7;
+    --sidebar-active: #D97706;
+  }
+
+  body {
+    @apply bg-[var(--bg-primary)] text-[var(--text-primary)] transition-colors duration-200;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  * {
+    @apply border-[var(--border-color)];
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-[var(--bg-card)] rounded-xl border border-[var(--border-color)] shadow-sm;
+  }
+
+  .btn-primary {
+    @apply bg-prd-amber-600 hover:bg-prd-amber-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors duration-150 inline-flex items-center gap-2;
+  }
+
+  .btn-secondary {
+    @apply bg-transparent border border-prd-amber-600 text-prd-amber-600 dark:text-prd-amber-400 hover:bg-prd-amber-50 dark:hover:bg-prd-amber-900 font-semibold px-4 py-2 rounded-lg transition-colors duration-150 inline-flex items-center gap-2;
+  }
+
+  .btn-orange {
+    @apply bg-prd-orange-500 hover:bg-prd-orange-600 text-white font-semibold px-4 py-2 rounded-lg transition-colors duration-150 inline-flex items-center gap-2;
+  }
+
+  .input-field {
+    @apply w-full bg-[var(--bg-secondary)] border border-[var(--border-color)] rounded-lg px-3 py-2 text-[var(--text-primary)] placeholder-[var(--text-secondary)] focus:outline-none focus:ring-2 focus:ring-prd-amber-500 focus:border-transparent transition-all;
+  }
+
+  .select-field {
+    @apply input-field appearance-none cursor-pointer;
+  }
+
+  .page-title {
+    @apply text-3xl font-bold text-[var(--text-primary)];
+  }
+
+  .section-title {
+    @apply text-xl font-semibold text-[var(--text-primary)];
+  }
+
+  .label-text {
+    @apply text-sm font-medium text-[var(--text-secondary)] mb-1 block;
+  }
+
+  .table-row {
+    @apply border-b border-[var(--border-color)] hover:bg-[var(--bg-secondary)] transition-colors;
+  }
+
+  .sidebar-link {
+    @apply flex items-center gap-3 px-4 py-2.5 rounded-lg text-sm font-medium transition-all duration-150 cursor-pointer;
+  }
+
+  .sidebar-link-active {
+    @apply bg-prd-amber-600 text-white;
+  }
+
+  .sidebar-link-inactive {
+    @apply text-[var(--sidebar-text)] hover:bg-prd-amber-800 hover:text-white;
+  }
+}
+
+/* Leaflet dark mode fix */
+.dark .leaflet-tile {
+  filter: brightness(0.7) invert(1) contrast(3) hue-rotate(200deg) saturate(0.3) brightness(0.7);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { @apply bg-[var(--bg-secondary)]; }
+::-webkit-scrollbar-thumb { @apply bg-prd-amber-600 rounded-full; }
+
+/* Status badge colors */
+.status-submitted   { @apply bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300; }
+.status-acknowledged{ @apply bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300; }
+.status-review      { @apply bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300; }
+.status-assigned    { @apply bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300; }
+.status-progress    { @apply bg-yellow-100 text-yellow-700 dark:bg-yellow-900/40 dark:text-yellow-300; }
+.status-resolved    { @apply bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300; }
+.status-closed      { @apply bg-gray-100 text-gray-600 dark:bg-gray-800 dark:text-gray-400; }
+.status-escalated   { @apply bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300; }
+.status-reopened    { @apply bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300; }

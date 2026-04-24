@@ -1,0 +1,50 @@
+[
+  {
+    "panchayat_id": "PAN-PAT-MAS-001", "panchayat_name": "Nagwan", "block": "Masaurhi", "district": "Patna", "financial_year": "2024-25",
+    "funds": [
+      { "scheme": "15th Finance Commission", "category": "tied", "allocated": 2850000, "released": 2850000, "utilized": 2341000, "utilization_pct": 82.1, "last_updated": "2025-03-15",
+        "transactions": [
+          { "date": "2024-04-10", "amount": 950000, "head": "Sanitation" },
+          { "date": "2024-08-22", "amount": 891000, "head": "Water Supply" },
+          { "date": "2025-01-05", "amount": 500000, "head": "Sanitation" }
+        ]
+      },
+      { "scheme": "State Finance Commission", "category": "untied", "allocated": 1200000, "released": 900000, "utilized": 744000, "utilization_pct": 82.7, "last_updated": "2025-03-10", "transactions": [] },
+      { "scheme": "MGNREGS Labour Budget", "category": "labour", "allocated": 4200000, "released": 4200000, "utilized": 3822000, "utilization_pct": 91.0, "last_updated": "2025-04-01", "transactions": [] }
+    ],
+    "total_allocated": 8250000, "total_utilized": 6907000, "overall_utilization_pct": 83.7
+  },
+  {
+    "panchayat_id": "PAN-PAT-BKT-002", "panchayat_name": "Bakhtiyarpur", "block": "Bakhtiyarpur", "district": "Patna", "financial_year": "2024-25",
+    "funds": [
+      { "scheme": "15th Finance Commission", "category": "tied", "allocated": 3200000, "released": 3200000, "utilized": 3104000, "utilization_pct": 97.0, "last_updated": "2025-04-05", "transactions": [] },
+      { "scheme": "PMAY-G", "category": "housing", "allocated": 4800000, "released": 4800000, "utilized": 4512000, "utilization_pct": 94.0, "last_updated": "2025-03-28", "transactions": [] },
+      { "scheme": "JJM (Jal Jeevan Mission)", "category": "water", "allocated": 3100000, "released": 3100000, "utilized": 2852000, "utilization_pct": 92.0, "last_updated": "2025-03-20", "transactions": [] }
+    ],
+    "total_allocated": 11100000, "total_utilized": 10468000, "overall_utilization_pct": 94.3
+  },
+  {
+    "panchayat_id": "PAN-PAT-BHT-003", "panchayat_name": "Bihta", "block": "Bihta", "district": "Patna", "financial_year": "2024-25",
+    "funds": [
+      { "scheme": "15th Finance Commission", "category": "tied", "allocated": 2400000, "released": 2400000, "utilized": 912000, "utilization_pct": 38.0, "last_updated": "2025-02-10", "transactions": [] },
+      { "scheme": "SBM-G", "category": "sanitation", "allocated": 1400000, "released": 700000, "utilized": 532000, "utilization_pct": 76.0, "last_updated": "2025-01-15", "transactions": [] }
+    ],
+    "total_allocated": 3800000, "total_utilized": 1444000, "overall_utilization_pct": 38.0
+  },
+  {
+    "panchayat_id": "PAN-GAY-BLG-001", "panchayat_name": "Belaganj", "block": "Belaganj", "district": "Gaya", "financial_year": "2024-25",
+    "funds": [
+      { "scheme": "15th Finance Commission", "category": "tied", "allocated": 2900000, "released": 2900000, "utilized": 2668000, "utilization_pct": 92.0, "last_updated": "2025-04-08", "transactions": [] },
+      { "scheme": "MGNREGS Labour Budget", "category": "labour", "allocated": 5200000, "released": 5200000, "utilized": 4992000, "utilization_pct": 96.0, "last_updated": "2025-04-01", "transactions": [] }
+    ],
+    "total_allocated": 8100000, "total_utilized": 7660000, "overall_utilization_pct": 94.6
+  },
+  {
+    "panchayat_id": "PAN-VAI-LLG-001", "panchayat_name": "Lakri Nabiganj", "block": "Lalganj", "district": "Vaishali", "financial_year": "2024-25",
+    "funds": [
+      { "scheme": "15th Finance Commission", "category": "tied", "allocated": 2100000, "released": 1260000, "utilized": 958000, "utilization_pct": 76.0, "last_updated": "2025-03-01", "transactions": [] },
+      { "scheme": "State Finance Commission", "category": "untied", "allocated": 1400000, "released": 840000, "utilized": 638000, "utilization_pct": 76.0, "last_updated": "2025-02-20", "transactions": [] }
+    ],
+    "total_allocated": 3500000, "total_utilized": 1596000, "overall_utilization_pct": 45.6
+  }
+]

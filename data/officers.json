@@ -1,0 +1,59 @@
+[
+  {
+    "id": "officer_112", "name": "Arvind Kumar Sharma", "designation": "Junior Engineer",
+    "department": "Rural Development", "level": "Block",
+    "jurisdiction": { "district": "Muzaffarpur", "block": "Muraul" },
+    "contact": { "phone": "94XXXXXXXX", "email": "arvind.sharma@bihar.gov.in" },
+    "stats": { "complaints_assigned": 34, "complaints_resolved": 29, "resolution_rate": 85.3, "avg_resolution_days": 4.2, "sla_breaches": 2, "login_days_last_30": 24, "last_login": "2025-04-08T08:42:00Z", "data_entries_this_month": 12 },
+    "activity_log": [
+      { "date": "2025-04-08", "action": "login", "time": "08:42" },
+      { "date": "2025-04-08", "action": "complaint_updated", "ref": "GRV/2025/03/87421" },
+      { "date": "2025-04-07", "action": "project_updated", "ref": "PRJ-2024-MZF-019" },
+      { "date": "2025-04-06", "action": "login", "time": "09:15" }
+    ]
+  },
+  {
+    "id": "officer_089", "name": "Priya Kumari Singh", "designation": "Block Development Officer",
+    "department": "Panchayati Raj", "level": "Block",
+    "jurisdiction": { "district": "Vaishali", "block": "Lalganj" },
+    "contact": { "phone": "91XXXXXXXX", "email": "priya.singh@bihar.gov.in" },
+    "stats": { "complaints_assigned": 52, "complaints_resolved": 38, "resolution_rate": 73.1, "avg_resolution_days": 6.8, "sla_breaches": 7, "login_days_last_30": 18, "last_login": "2025-04-07T10:15:00Z", "data_entries_this_month": 8 },
+    "activity_log": [
+      { "date": "2025-04-07", "action": "login", "time": "10:15" },
+      { "date": "2025-04-05", "action": "complaint_updated", "ref": "GRV/2025/02/44321" }
+    ]
+  },
+  {
+    "id": "officer_134", "name": "Suresh Kumar Gupta", "designation": "Junior Engineer",
+    "department": "Rural Works", "level": "Block",
+    "jurisdiction": { "district": "Patna", "block": "Phulwari" },
+    "contact": { "phone": "93XXXXXXXX", "email": "suresh.gupta@bihar.gov.in" },
+    "stats": { "complaints_assigned": 28, "complaints_resolved": 26, "resolution_rate": 92.9, "avg_resolution_days": 3.1, "sla_breaches": 0, "login_days_last_30": 28, "last_login": "2025-04-09T07:30:00Z", "data_entries_this_month": 18 },
+    "activity_log": [
+      { "date": "2025-04-09", "action": "login", "time": "07:30" },
+      { "date": "2025-04-09", "action": "complaint_updated", "ref": "GRV/2025/03/99012" },
+      { "date": "2025-04-08", "action": "project_updated", "ref": "PRJ-2024-PAT-001" }
+    ]
+  },
+  {
+    "id": "officer_201", "name": "Ramesh Kumar Yadav", "designation": "Electrician (Grade A)",
+    "department": "Rural Electrification", "level": "Block",
+    "jurisdiction": { "district": "Gaya", "block": "Belaganj" },
+    "contact": { "phone": "95XXXXXXXX", "email": "ramesh.yadav@bihar.gov.in" },
+    "stats": { "complaints_assigned": 19, "complaints_resolved": 19, "resolution_rate": 100.0, "avg_resolution_days": 2.8, "sla_breaches": 0, "login_days_last_30": 26, "last_login": "2025-04-08T09:00:00Z", "data_entries_this_month": 9 },
+    "activity_log": [
+      { "date": "2025-04-08", "action": "login", "time": "09:00" },
+      { "date": "2025-04-06", "action": "complaint_resolved", "ref": "GRV/2025/02/55431" }
+    ]
+  },
+  {
+    "id": "officer_045", "name": "Meena Devi Jha", "designation": "Panchayat Sachiv",
+    "department": "Panchayati Raj", "level": "Panchayat",
+    "jurisdiction": { "district": "Patna", "block": "Bihta", "panchayat": "Bihta" },
+    "contact": { "phone": "90XXXXXXXX", "email": "meena.jha@bihar.gov.in" },
+    "stats": { "complaints_assigned": 15, "complaints_resolved": 9, "resolution_rate": 60.0, "avg_resolution_days": 9.4, "sla_breaches": 4, "login_days_last_30": 12, "last_login": "2025-04-03T11:00:00Z", "data_entries_this_month": 3 },
+    "activity_log": [
+      { "date": "2025-04-03", "action": "login", "time": "11:00" }
+    ]
+  }
+]

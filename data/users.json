@@ -1,0 +1,7 @@
+[
+  { "id": "USR-001", "email": "state.admin@bihar.gov.in", "password": "Bihar@2025", "name": "Rajiv Kumar IAS", "role": "state_admin", "designation": "Principal Secretary, Panchayati Raj", "jurisdiction": "All Bihar", "avatar": null },
+  { "id": "USR-002", "email": "patna.admin@bihar.gov.in", "password": "Bihar@2025", "name": "Amit Kumar Singh", "role": "district_admin", "designation": "District Panchayati Raj Officer", "jurisdiction": "Patna", "avatar": null },
+  { "id": "USR-003", "email": "masaurhi.admin@bihar.gov.in", "password": "Bihar@2025", "name": "Sunita Devi", "role": "block_admin", "designation": "Block Development Officer", "jurisdiction": "Masaurhi, Patna", "avatar": null },
+  { "id": "USR-004", "email": "nagwan.admin@bihar.gov.in", "password": "Bihar@2025", "name": "Rakesh Kumar Singh", "role": "panchayat_admin", "designation": "Panchayat Sachiv", "jurisdiction": "Nagwan GP", "avatar": null },
+  { "id": "USR-005", "email": "citizen1@example.com", "password": "Test@123", "name": "Ramesh Prasad", "role": "citizen", "designation": null, "jurisdiction": null, "avatar": null }
+]

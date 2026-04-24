@@ -1,0 +1,170 @@
+[
+  {
+    "id": "GRV/2025/03/87421", "token": "TRK8821PBH",
+    "category": "Water Supply", "subcategory": "Non-functional handpump",
+    "district": "Patna", "block": "Masaurhi", "panchayat": "Nagwan", "ward": "4",
+    "description": "The hand pump near the primary school has not been functional for the past 3 weeks. Children and women have to walk 2 km to fetch water.",
+    "complainant": { "name": "Ramesh Prasad", "phone": "98XXXXXXXX", "is_anonymous": false },
+    "geo": { "lat": 25.4821, "lng": 84.9732 },
+    "priority": "high", "status": "Resolved", "assigned_to": "officer_112",
+    "sla_deadline": "2025-03-25", "is_escalated": false, "rating": 4,
+    "submitted_at": "2025-03-18T09:34:00Z",
+    "timeline": [
+      { "date": "2025-03-18T09:34:00Z", "status": "Submitted", "actor": "System", "note": "शिकायत दर्ज की गई — Complaint registered successfully" },
+      { "date": "2025-03-18T14:22:00Z", "status": "Acknowledged", "actor": "Block Admin", "note": "Received and logged by Masaurhi Block Office" },
+      { "date": "2025-03-19T10:05:00Z", "status": "Assigned", "actor": "Block Admin", "note": "Assigned to JE Arvind Kumar Sharma for field inspection" },
+      { "date": "2025-03-22T16:30:00Z", "status": "In Progress", "actor": "Arvind Kumar Sharma", "note": "Site visited. Pump rod broken. Parts ordered from district store." },
+      { "date": "2025-03-24T11:00:00Z", "status": "Resolved", "actor": "Block Admin", "note": "Handpump repaired and functional. Verified by Panchayat Sachiv." }
+    ]
+  },
+  {
+    "id": "GRV/2025/02/44321", "token": "TRK4432PBH",
+    "category": "MGNREGS", "subcategory": "Wage payment delay",
+    "district": "Vaishali", "block": "Lalganj", "panchayat": "Lakri Nabiganj", "ward": "7",
+    "description": "MGNREGS wages for 47 workers for the month of January 2025 have not been credited. Workers have been waiting for 45 days. Families are in distress.",
+    "complainant": { "name": "Suresh Mahto", "phone": "97XXXXXXXX", "is_anonymous": false },
+    "geo": { "lat": 25.8234, "lng": 85.1432 },
+    "priority": "critical", "status": "Escalated", "assigned_to": "officer_089",
+    "sla_deadline": "2025-03-01", "is_escalated": true, "rating": null,
+    "submitted_at": "2025-02-14T11:20:00Z",
+    "timeline": [
+      { "date": "2025-02-14T11:20:00Z", "status": "Submitted", "actor": "System", "note": "Complaint registered" },
+      { "date": "2025-02-15T09:00:00Z", "status": "Acknowledged", "actor": "Block Admin", "note": "Acknowledged. Forwarded to MGNREGS cell." },
+      { "date": "2025-02-18T14:00:00Z", "status": "Under Review", "actor": "Block Admin", "note": "Muster roll verification in progress" },
+      { "date": "2025-03-02T08:00:00Z", "status": "Escalated", "actor": "System", "note": "SLA breached — Auto-escalated to District Collector office" }
+    ]
+  },
+  {
+    "id": "GRV/2025/03/99012", "token": "TRK9901PBH",
+    "category": "Road & Infrastructure", "subcategory": "Damaged road with potholes",
+    "district": "Patna", "block": "Phulwari", "panchayat": "Phulwari", "ward": "3",
+    "description": "The main road connecting Ward 3 to the block headquarters has developed large potholes after the last monsoon. Two-wheelers have met with accidents. Urgent repair needed.",
+    "complainant": { "name": "Mohan Lal Gupta", "phone": "96XXXXXXXX", "is_anonymous": false },
+    "geo": { "lat": 25.5234, "lng": 85.0812 },
+    "priority": "medium", "status": "In Progress", "assigned_to": "officer_134",
+    "sla_deadline": "2025-04-05", "is_escalated": false, "rating": null,
+    "submitted_at": "2025-03-28T08:15:00Z",
+    "timeline": [
+      { "date": "2025-03-28T08:15:00Z", "status": "Submitted", "actor": "System", "note": "Complaint registered" },
+      { "date": "2025-03-28T16:00:00Z", "status": "Acknowledged", "actor": "Block Admin", "note": "Received. Road inspection scheduled." },
+      { "date": "2025-03-30T10:30:00Z", "status": "Assigned", "actor": "Block Admin", "note": "Assigned to JE Suresh Kumar for road survey" },
+      { "date": "2025-04-02T14:00:00Z", "status": "In Progress", "actor": "Suresh Kumar", "note": "Survey completed. Estimate of ₹3.2 lakhs submitted. Awaiting fund release." }
+    ]
+  },
+  {
+    "id": "GRV/2025/03/22341", "token": "TRK2234PBH",
+    "category": "Ration / PDS", "subcategory": "Wrong quantity distributed",
+    "district": "Muzaffarpur", "block": "Muraul", "panchayat": "Chainpur", "ward": "2",
+    "description": "The ration dealer at Ward 2 is distributing only 3 kg rice instead of the entitled 5 kg per person. This has been happening for 3 months. Dealer is demanding extra money.",
+    "complainant": { "name": "Anonymous", "phone": "", "is_anonymous": true },
+    "geo": { "lat": 26.1872, "lng": 85.3791 },
+    "priority": "high", "status": "Under Review", "assigned_to": null,
+    "sla_deadline": "2025-04-08", "is_escalated": false, "rating": null,
+    "submitted_at": "2025-04-01T07:45:00Z",
+    "timeline": [
+      { "date": "2025-04-01T07:45:00Z", "status": "Submitted", "actor": "System", "note": "Anonymous complaint registered" },
+      { "date": "2025-04-01T15:00:00Z", "status": "Acknowledged", "actor": "Block Admin", "note": "Received. PDS inspector notified." },
+      { "date": "2025-04-03T11:00:00Z", "status": "Under Review", "actor": "Block Admin", "note": "Surprise inspection of ration shop scheduled for 5 April." }
+    ]
+  },
+  {
+    "id": "GRV/2025/04/77121", "token": "TRK7712PBH",
+    "category": "Sanitation", "subcategory": "Garbage not cleared",
+    "district": "Nalanda", "block": "Asthawan", "panchayat": "Deoria", "ward": "5",
+    "description": "Garbage has not been collected from Ward 5 for over 2 weeks. The waste is piling up near the school and causing health hazards for children.",
+    "complainant": { "name": "Prem Shankar", "phone": "95XXXXXXXX", "is_anonymous": false },
+    "geo": { "lat": 25.1923, "lng": 85.5012 },
+    "priority": "low", "status": "Submitted", "assigned_to": null,
+    "sla_deadline": "2025-04-15", "is_escalated": false, "rating": null,
+    "submitted_at": "2025-04-08T10:00:00Z",
+    "timeline": [
+      { "date": "2025-04-08T10:00:00Z", "status": "Submitted", "actor": "System", "note": "Complaint registered" }
+    ]
+  },
+  {
+    "id": "GRV/2025/02/55431", "token": "TRK5543PBH",
+    "category": "Electricity", "subcategory": "Street lights not working",
+    "district": "Gaya", "block": "Belaganj", "panchayat": "Belaganj", "ward": "8",
+    "description": "12 out of 20 solar street lights installed under the scheme are non-functional. The ward is completely dark at night causing safety issues.",
+    "complainant": { "name": "Shanti Devi", "phone": "94XXXXXXXX", "is_anonymous": false },
+    "geo": { "lat": 24.7821, "lng": 84.9123 },
+    "priority": "medium", "status": "Resolved", "assigned_to": "officer_201",
+    "sla_deadline": "2025-03-10", "is_escalated": false, "rating": 5,
+    "submitted_at": "2025-02-28T09:00:00Z",
+    "timeline": [
+      { "date": "2025-02-28T09:00:00Z", "status": "Submitted", "actor": "System", "note": "Complaint registered" },
+      { "date": "2025-02-28T17:00:00Z", "status": "Acknowledged", "actor": "Block Admin", "note": "Acknowledged. Electricity department informed." },
+      { "date": "2025-03-02T10:00:00Z", "status": "Assigned", "actor": "Block Admin", "note": "Assigned to Electrician Ramesh Kumar" },
+      { "date": "2025-03-05T14:00:00Z", "status": "In Progress", "actor": "Ramesh Kumar", "note": "Battery replacement in progress for 8 lights" },
+      { "date": "2025-03-08T16:00:00Z", "status": "Resolved", "actor": "Block Admin", "note": "All 12 lights repaired and functional. Verified." }
+    ]
+  },
+  {
+    "id": "GRV/2025/03/33121", "token": "TRK3312PBH",
+    "category": "Housing (PMAY)", "subcategory": "Incomplete construction",
+    "district": "Saran", "block": "Garkha", "panchayat": "Gaura", "ward": "6",
+    "description": "PMAY-G house construction stopped at lintel level 8 months ago. Contractor has abandoned work. Beneficiary family is living in temporary shelter.",
+    "complainant": { "name": "Ramkali Devi", "phone": "93XXXXXXXX", "is_anonymous": false },
+    "geo": { "lat": 25.7812, "lng": 84.7234 },
+    "priority": "high", "status": "In Progress", "assigned_to": "officer_178",
+    "sla_deadline": "2025-04-12", "is_escalated": false, "rating": null,
+    "submitted_at": "2025-03-20T08:30:00Z",
+    "timeline": [
+      { "date": "2025-03-20T08:30:00Z", "status": "Submitted", "actor": "System", "note": "Complaint registered" },
+      { "date": "2025-03-21T10:00:00Z", "status": "Acknowledged", "actor": "Block Admin", "note": "Received. PMAY cell notified." },
+      { "date": "2025-03-23T14:00:00Z", "status": "Assigned", "actor": "Block Admin", "note": "Assigned to BDO for contractor action" },
+      { "date": "2025-03-28T11:00:00Z", "status": "In Progress", "actor": "BDO Saran", "note": "Show cause notice issued to contractor. New contractor being identified." }
+    ]
+  },
+  {
+    "id": "GRV/2025/02/88341", "token": "TRK8834PBH",
+    "category": "Water Supply", "subcategory": "Water contamination",
+    "district": "Darbhanga", "block": "Baheri", "panchayat": "Basantpur", "ward": "3",
+    "description": "Piped water supply has turned yellowish-brown. Multiple residents have reported stomach illness. Water quality testing urgently needed.",
+    "complainant": { "name": "Vijay Kumar Jha", "phone": "91XXXXXXXX", "is_anonymous": false },
+    "geo": { "lat": 26.1234, "lng": 85.8912 },
+    "priority": "medium", "status": "Resolved", "assigned_to": "officer_156",
+    "sla_deadline": "2025-03-05", "is_escalated": false, "rating": 3,
+    "submitted_at": "2025-02-22T07:00:00Z",
+    "timeline": [
+      { "date": "2025-02-22T07:00:00Z", "status": "Submitted", "actor": "System", "note": "Complaint registered" },
+      { "date": "2025-02-22T14:00:00Z", "status": "Acknowledged", "actor": "Block Admin", "note": "Acknowledged. Water testing team dispatched." },
+      { "date": "2025-02-24T10:00:00Z", "status": "In Progress", "actor": "PHED Officer", "note": "Water sample collected. Pipe leakage found near Ward 3 junction." },
+      { "date": "2025-03-01T15:00:00Z", "status": "Resolved", "actor": "Block Admin", "note": "Pipe repaired. Water quality tested and cleared. Supply restored." }
+    ]
+  },
+  {
+    "id": "GRV/2025/03/11221", "token": "TRK1122PBH",
+    "category": "Panchayat Administration", "subcategory": "Records not available",
+    "district": "Patna", "block": "Bihta", "panchayat": "Bihta", "ward": "1",
+    "description": "Panchayat Sachiv is refusing to provide copies of ward sabha minutes and fund utilization records under RTI. This is a violation of transparency norms.",
+    "complainant": { "name": "Dinesh Kumar", "phone": "90XXXXXXXX", "is_anonymous": false },
+    "geo": { "lat": 25.5612, "lng": 84.8921 },
+    "priority": "high", "status": "Reopened", "assigned_to": "officer_045",
+    "sla_deadline": "2025-04-01", "is_escalated": false, "rating": null,
+    "submitted_at": "2025-03-10T09:00:00Z",
+    "timeline": [
+      { "date": "2025-03-10T09:00:00Z", "status": "Submitted", "actor": "System", "note": "Complaint registered" },
+      { "date": "2025-03-11T10:00:00Z", "status": "Acknowledged", "actor": "Block Admin", "note": "Acknowledged. RTI officer notified." },
+      { "date": "2025-03-15T14:00:00Z", "status": "Resolved", "actor": "Block Admin", "note": "Sachiv directed to provide records within 48 hours." },
+      { "date": "2025-03-25T08:00:00Z", "status": "Reopened", "actor": "Dinesh Kumar", "note": "Records still not provided despite direction. Reopening complaint." }
+    ]
+  },
+  {
+    "id": "GRV/2025/01/66431", "token": "TRK6643PBH",
+    "category": "Certificate / Documents", "subcategory": "Delay in income certificate",
+    "district": "Vaishali", "block": "Lalganj", "panchayat": "Lalganj", "ward": "9",
+    "description": "Applied for income certificate 45 days ago for daughter's scholarship. Certificate not issued despite multiple visits to Panchayat office.",
+    "complainant": { "name": "Rajendra Prasad", "phone": "99XXXXXXXX", "is_anonymous": false },
+    "geo": { "lat": 25.8712, "lng": 85.2134 },
+    "priority": "low", "status": "Closed", "assigned_to": "officer_067",
+    "sla_deadline": "2025-02-15", "is_escalated": false, "rating": 2,
+    "submitted_at": "2025-01-20T11:00:00Z",
+    "timeline": [
+      { "date": "2025-01-20T11:00:00Z", "status": "Submitted", "actor": "System", "note": "Complaint registered" },
+      { "date": "2025-01-21T09:00:00Z", "status": "Acknowledged", "actor": "Block Admin", "note": "Acknowledged." },
+      { "date": "2025-01-25T14:00:00Z", "status": "Resolved", "actor": "Block Admin", "note": "Certificate issued. Applicant notified." },
+      { "date": "2025-02-10T00:00:00Z", "status": "Closed", "actor": "System", "note": "Auto-closed after 15 days of resolution with no citizen response." }
+    ]
+  }
+]
